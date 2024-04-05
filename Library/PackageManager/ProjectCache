@@ -1,0 +1,3784 @@
+m_ProjectFiles:
+  m_ManifestFileStatus:
+    m_FilePath: C:/Users/saart/Desktop/Unity/Q1/Packages/manifest.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 638479047347005391
+    m_Hash: 4206047252
+  m_LockFileStatus:
+    m_FilePath: C:/Users/saart/Desktop/Unity/Q1/Packages/packages-lock.json
+    m_PathExists: 1
+    m_ContentTrackingEnabled: 1
+    m_ModificationDate:
+      serializedVersion: 2
+      ticks: 638479047347045258
+    m_Hash: 480597268
+m_EmbeddedPackageManifests:
+  m_ManifestsStatus: {}
+m_LocalPackages:
+  m_LocalFileStatus: []
+m_ProjectPath: C:/Users/saart/Desktop/Unity/Q1/Packages
+m_EditorVersion: 2022.3.23f1 (dbb3f7c5b5c6)
+m_ResolvedPackages:
+- packageId: com.unity.ai.navigation@1.1.5
+  testable: 0
+  isDirectDependency: 1
+  version: 1.1.5
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.ai.navigation@1.1.5
+  assetPath: Packages/com.unity.ai.navigation
+  name: com.unity.ai.navigation
+  displayName: AI Navigation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: High-level NavMesh components for building and using NavMeshes at
+    runtime and at edit time.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.1
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0-exp.4
+    - 1.1.0-pre.1
+    - 1.1.0-pre.2
+    - 1.1.1
+    - 1.1.3
+    - 1.1.4
+    - 1.1.5
+    - 2.0.0-pre.3
+    - 2.0.0-pre.4
+    - 2.0.0
+    compatible:
+    - 1.1.5
+    recommended: 1.1.5
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ai
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638319373850000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.ai.navigation@1.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.ai.navigation.git
+    revision: a905e1ab41c8afae1a75688ceb3b4dfa1686ea75
+    path: 
+  unityLifecycle:
+    version: 1.1.5
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.collab-proxy@2.3.1
+  testable: 0
+  isDirectDependency: 1
+  version: 2.3.1
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.collab-proxy@2.3.1
+  assetPath: Packages/com.unity.collab-proxy
+  name: com.unity.collab-proxy
+  displayName: Version Control
+  author:
+    name: 
+    email: 
+    url: 
+  category: Editor
+  type: assets
+  description: The package gives you the ability to use Unity Version Control in
+    the Unity editor. To use Unity Version Control, a subscription is required. Learn
+    more about how you can get started for free by visiting https://unity.com/solutions/version-control
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.2.3-preview
+    - 1.2.4-preview
+    - 1.2.6
+    - 1.2.7
+    - 1.2.9
+    - 1.2.11
+    - 1.2.15
+    - 1.2.16
+    - 1.2.17-preview.3
+    - 1.3.2
+    - 1.3.3
+    - 1.3.4
+    - 1.3.5
+    - 1.3.6
+    - 1.3.7
+    - 1.3.8
+    - 1.3.9
+    - 1.4.9
+    - 1.5.7
+    - 1.6.0
+    - 1.7.1
+    - 1.8.0
+    - 1.9.0
+    - 1.10.2
+    - 1.11.2
+    - 1.12.5
+    - 1.13.5
+    - 1.14.1
+    - 1.14.4
+    - 1.14.7
+    - 1.14.9
+    - 1.14.12
+    - 1.14.13
+    - 1.14.15
+    - 1.14.16
+    - 1.14.17
+    - 1.14.18
+    - 1.15.1
+    - 1.15.4
+    - 1.15.7
+    - 1.15.9
+    - 1.15.12
+    - 1.15.13
+    - 1.15.15
+    - 1.15.16
+    - 1.15.17
+    - 1.15.18
+    - 1.17.0
+    - 1.17.1
+    - 1.17.2
+    - 1.17.6
+    - 1.17.7
+    - 2.0.0-preview.6
+    - 2.0.0-preview.8
+    - 2.0.0-preview.15
+    - 2.0.0-preview.17
+    - 2.0.0-preview.20
+    - 2.0.0-preview.21
+    - 2.0.0-preview.22
+    - 2.0.0
+    - 2.0.1
+    - 2.0.3
+    - 2.0.4
+    - 2.0.5
+    - 2.0.7
+    - 2.1.0-preview.3
+    - 2.1.0-preview.5
+    - 2.1.0-preview.6
+    - 2.1.0
+    - 2.2.0
+    - 2.3.1
+    compatible:
+    - 2.3.1
+    recommended: 2.3.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - backup
+  - cloud
+  - collab
+  - collaborate
+  - collaboration
+  - control
+  - devops
+  - plastic
+  - plasticscm
+  - source
+  - team
+  - teams
+  - version
+  - vcs
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638448201880000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.collab-proxy@2.3/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.cloud.collaborate.git
+    revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
+    path: 
+  unityLifecycle:
+    version: 2.3.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.postprocessing@3.4.0
+  testable: 0
+  isDirectDependency: 1
+  version: 3.4.0
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.postprocessing@3.4.0
+  assetPath: Packages/com.unity.postprocessing
+  name: com.unity.postprocessing
+  displayName: Post Processing
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: The post-processing stack (v2) comes with a collection of effects
+    and image filters you can apply to your cameras to improve the visuals of your
+    games.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.7
+    - 0.1.8
+    - 2.0.0-beta
+    - 2.0.1-beta
+    - 2.0.2-preview
+    - 2.0.3-preview
+    - 2.0.5-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 2.0.9-preview
+    - 2.0.10-preview
+    - 2.0.11-preview
+    - 2.0.12-preview
+    - 2.0.13-preview
+    - 2.0.14-preview
+    - 2.0.15-preview
+    - 2.0.16-preview
+    - 2.0.17-preview
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3
+    - 2.1.4
+    - 2.1.5
+    - 2.1.6
+    - 2.1.7
+    - 2.2.1
+    - 2.2.2
+    - 2.3.0
+    - 3.0.1
+    - 3.0.3
+    - 3.1.0
+    - 3.1.1
+    - 3.2.0
+    - 3.2.1
+    - 3.2.2
+    - 3.3.0
+    - 3.4.0
+    compatible:
+    - 3.4.0
+    recommended: 3.4.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638384897060000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.postprocessing@3.4/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/Graphics.git
+    revision: 54427d2529ad1a9e8f31c693d751c6371f914e40
+    path: 
+  unityLifecycle:
+    version: 3.4.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.remote-config@4.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 4.0.0
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.remote-config@4.0.0
+  assetPath: Packages/com.unity.remote-config
+  name: com.unity.remote-config
+  displayName: Remote Config
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: "Remote Config is a cloud service that lets you tune and customize
+    your app over the air without requiring an update to your game.  You can use
+    rules to enable or disable features, change the difficulty of your game or run
+    special events to target specific audiences.  Campaigns control when updates
+    are applied and to whom, while Unity manages delivery of your game content with
+    minimal performance impact. \n\nRemote Config can be configured via the editor
+    or through our public API\u2019s.  Functionality includes: \n- Release new features
+    without deploying code:\n   - Feature flagging\n   - Staged Rollouts\n   - Kill
+    switch functionality\n   - Start & End Date\n   - Enable & disable rules\n- Personalized
+    real-time segmentation with custom attributes\n   - Custom conditions for applying
+    setting variants\n   - Device, user, game and other arbitrary attributes supporting\n-
+    Reporting\n   - Tracing ID for decorating analytics events"
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.3.0-preview.4
+    - 0.3.1-preview.2
+    - 0.3.2-preview
+    - 1.0.0-preview
+    - 1.0.4-preview.2
+    - 1.0.5-preview
+    - 1.0.6-preview
+    - 1.0.6
+    - 1.0.7-preview
+    - 1.0.8-preview
+    - 1.0.8-preview.1
+    - 1.0.8
+    - 1.0.9-preview
+    - 1.0.9-preview.1
+    - 1.0.9
+    - 1.0.10-preview.1
+    - 1.1.0-preview
+    - 1.1.0-preview.1
+    - 1.1.0-preview.2
+    - 1.1.0-preview.3
+    - 1.1.0-preview.4
+    - 1.2.0-preview
+    - 1.2.0-preview.1
+    - 1.2.0-preview.2
+    - 1.2.0-preview.3
+    - 1.2.0-preview.4
+    - 1.2.0-preview.5
+    - 1.2.1-preview
+    - 1.2.1
+    - 1.2.2-preview.1
+    - 1.2.2
+    - 1.2.3-preview.1
+    - 1.2.3-preview.2
+    - 1.2.3
+    - 1.2.4-preview.2
+    - 1.2.4-preview.3
+    - 1.2.4-preview.4
+    - 1.3.0-preview.1
+    - 1.3.0-preview.2
+    - 1.3.1-preview.1
+    - 1.3.1-preview.2
+    - 1.3.1-preview.3
+    - 1.3.1-preview.4
+    - 1.3.2-preview.1
+    - 1.3.2-preview.2
+    - 1.3.2-preview.3
+    - 1.3.2-preview.4
+    - 1.3.2-preview.5
+    - 1.3.2-preview.6
+    - 1.3.2-preview.7
+    - 1.3.2-preview.8
+    - 1.3.2-preview.9
+    - 1.3.2-preview.10
+    - 1.4.0-preview.1
+    - 1.4.0-preview.2
+    - 1.4.0-preview.3
+    - 1.4.0-preview.4
+    - 1.4.0-preview.5
+    - 1.4.0-preview.6
+    - 1.4.0-preview.7
+    - 1.4.0-preview.8
+    - 1.4.0
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1
+    - 2.0.2-exp.1
+    - 2.1.0-exp.1
+    - 2.1.0-exp.2
+    - 2.1.1-exp.1
+    - 2.1.1-exp.2
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3-exp.1
+    - 2.1.3-exp.2
+    - 2.1.3-exp.3
+    - 2.1.3-exp.4
+    - 2.1.3-exp.6
+    - 2.1.3-exp.7
+    - 2.1.3-exp.8
+    - 2.1.3-exp.9
+    - 2.1.3-exp.10
+    - 2.1.3-exp.11
+    - 3.0.0-pre.3
+    - 3.0.0-pre.4
+    - 3.0.0-pre.5
+    - 3.0.0-pre.6
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.9
+    - 3.0.0-pre.10
+    - 3.0.0-pre.11
+    - 3.0.0-pre.12
+    - 3.0.0-pre.13
+    - 3.0.0-pre.14
+    - 3.0.0-pre.15
+    - 3.0.0
+    - 3.1.0
+    - 3.1.3
+    - 3.2.2
+    - 3.3.1
+    - 3.3.2
+    - 4.0.0
+    compatible:
+    - 3.3.2
+    - 4.0.0
+    recommended: 3.3.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.remote-config-runtime
+    version: 4.0.1
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.remote-config-runtime
+    version: 4.0.1
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - remote
+  - config
+  - configuration
+  - settings
+  - remote settings
+  - remote config
+  - firebase
+  - staged rollouts
+  - feature flagging
+  - roll-out
+  - adapt
+  - tune
+  - tailor
+  - test
+  - experiment
+  - experimentation
+  - app update
+  - target
+  - targeting
+  - segment
+  - segmentation
+  - segmenting
+  - override
+  - rules
+  - variants
+  - variation
+  - parameter
+  - conditions
+  - conditional
+  - continuous delivery
+  - deploy
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638346098610000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.remote-config@4.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.remote-config.git
+    revision: 98a58e8d2f21e03168c7a34058a319fdad8bc4ad
+    path: 
+  unityLifecycle:
+    version: 3.3.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.ccd.management@2.2.2
+  testable: 0
+  isDirectDependency: 1
+  version: 2.2.2
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.ccd.management@2.2.2
+  assetPath: Packages/com.unity.services.ccd.management
+  name: com.unity.services.ccd.management
+  displayName: CCD Management
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: "Cloud Content Delivery (CCD) is a managed cloud service that hosts
+    and delivers live content to your application\u2019s users worldwide. Note: The
+    Addressables package (1.19.6+) contains features that utilize this SDK to manage
+    CCD."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.2
+    - 2.0.2
+    - 2.0.3
+    - 2.0.4
+    - 2.1.0
+    - 2.2.1
+    - 2.2.2
+    - 3.0.0
+    compatible:
+    - 2.2.2
+    - 3.0.0
+    recommended: 2.2.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.3.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequesttexture
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestwww
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638108636240000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.ccd.management@2.2/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.services.ccd.management.git
+    revision: 6eaf43cb8f26a84ae68762bae7dca838cab5bfed
+    path: 
+  unityLifecycle:
+    version: 2.2.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.cloudcode@2.5.1
+  testable: 0
+  isDirectDependency: 1
+  version: 2.5.1
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.cloudcode@2.5.1
+  assetPath: Packages/com.unity.services.cloudcode
+  name: com.unity.services.cloudcode
+  displayName: Cloud Code
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: "Run your game logic in the cloud as serverless functions and interact
+    with other backend services.\n\nThis package allows you to call out to Cloud
+    Code from within your project as a secure player.\n\nCloud Code can be used to:
+    \n-Change game logic for all players without re-distributing your game \n-Grant
+    timed rewards \n-Create randomized values"
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.0-pre.5
+    - 1.0.0-pre.6
+    - 1.0.0-pre.7
+    - 2.0.0-pre.4
+    - 2.0.0
+    - 2.0.1
+    - 2.1.1
+    - 2.1.2
+    - 2.2.1
+    - 2.2.2
+    - 2.2.4
+    - 2.3.0
+    - 2.3.1
+    - 2.3.2
+    - 2.4.0
+    - 2.5.0
+    - 2.5.1
+    - 2.6.0
+    - 2.6.1
+    compatible:
+    - 2.5.0
+    - 2.5.1
+    - 2.6.0
+    - 2.6.1
+    recommended: 2.5.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.services.core
+    version: 1.12.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.services.wire
+    version: 1.1.5
+  resolvedDependencies:
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.services.wire
+    version: 1.2.3
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638338409250000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.cloudcode@2.5/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: dc900f2f42085635c80197345bb69d5aaca659d7
+    path: 
+  unityLifecycle:
+    version: 2.5.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.cloudsave@3.1.1
+  testable: 0
+  isDirectDependency: 1
+  version: 3.1.1
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.cloudsave@3.1.1
+  assetPath: Packages/com.unity.services.cloudsave
+  name: com.unity.services.cloudsave
+  displayName: Cloud Save
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: "Build better player experiences with seamless game data stored securely
+    in the cloud.\n\nUse Cloud Save to store your players\u2019 progress and preferences,
+    by doing so you can share this data between all the players\u2019 devices and
+    any game backend services."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 2.0.0-pre.2
+    - 2.0.0
+    - 2.0.1
+    - 2.2.1
+    - 3.0.0
+    - 3.1.0
+    - 3.1.1
+    compatible:
+    - 2.2.1
+    - 3.0.0
+    - 3.1.0
+    - 3.1.1
+    recommended: 2.2.1
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.authentication
+    version: 2.6.1
+  - name: com.unity.services.core
+    version: 1.4.3
+  resolvedDependencies:
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638459374470000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.cloudsave@3.1/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 293b837e4f6ab68d9d7583c1be050e3863be1b51
+    path: 
+  unityLifecycle:
+    version: 2.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.shadergraph@14.0.10
+  testable: 0
+  isDirectDependency: 1
+  version: 14.0.10
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.shadergraph@14.0.10
+  assetPath: Packages/com.unity.shadergraph
+  name: com.unity.shadergraph
+  displayName: Shader Graph
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Shader Graph package adds a visual Shader editing tool to Unity.
+    You can use this tool to create Shaders in a visual way instead of writing code.
+    Specific render pipelines can implement specific graph features. Currently, both
+    the High Definition Rendering Pipeline and the Universal Rendering Pipeline support
+    Shader Graph.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.8
+    - 0.1.9
+    - 0.1.17
+    - 1.0.0-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.3-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.6-preview
+    - 1.1.8-preview
+    - 1.1.9-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.14
+    - 9.0.0-preview.34
+    - 9.0.0-preview.55
+    - 9.0.0-preview.72
+    - 10.0.0-preview.27
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
+    - 14.0.10
+    compatible:
+    - 14.0.10
+    recommended: 14.0.10
+    deprecated: []
+  dependencies:
+  - name: com.unity.render-pipelines.core
+    version: 14.0.10
+  - name: com.unity.searcher
+    version: 4.9.2
+  resolvedDependencies:
+  - name: com.unity.render-pipelines.core
+    version: 14.0.10
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.searcher
+    version: 4.9.2
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 14.0.10
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.ai@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.ai@1.0.0
+  assetPath: Packages/com.unity.modules.ai
+  name: com.unity.modules.ai
+  displayName: AI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The AI module implements the path finding features in Unity. Scripting
+    API: https://docs.unity3d.com/ScriptReference/UnityEngine.AIModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.androidjni@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.androidjni@1.0.0
+  assetPath: Packages/com.unity.modules.androidjni
+  name: com.unity.modules.androidjni
+  displayName: Android JNI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'AndroidJNI module allows you to call Java code. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AndroidJNIModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.animation@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.animation@1.0.0
+  assetPath: Packages/com.unity.modules.animation
+  name: com.unity.modules.animation
+  displayName: Animation
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Animation module implements Unity''s animation system. Scripting
+    API: https://docs.unity3d.com/ScriptReference/UnityEngine.AnimationModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.assetbundle@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
+  assetPath: Packages/com.unity.modules.assetbundle
+  name: com.unity.modules.assetbundle
+  displayName: Asset Bundle
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The AssetBundle module implements the AssetBundle class and related
+    APIs to load data from AssetBundles. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AssetBundleModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.audio@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.audio@1.0.0
+  assetPath: Packages/com.unity.modules.audio
+  name: com.unity.modules.audio
+  displayName: Audio
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Audio module implements Unity''s audio system. Scripting API:
+    https://docs.unity3d.com/ScriptReference/UnityEngine.AudioModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.cloth@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.cloth@1.0.0
+  assetPath: Packages/com.unity.modules.cloth
+  name: com.unity.modules.cloth
+  displayName: Cloth
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Cloth module implements cloth physics simulation through the
+    Cloth component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ClothModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.director@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.director@1.0.0
+  assetPath: Packages/com.unity.modules.director
+  name: com.unity.modules.director
+  displayName: Director
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Director module implements the PlayableDirector class. Scripting
+    API: https://docs.unity3d.com/ScriptReference/UnityEngine.DirectorModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.animation
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.imageconversion@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
+  assetPath: Packages/com.unity.modules.imageconversion
+  name: com.unity.modules.imageconversion
+  displayName: Image Conversion
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The ImageConversion module implements the ImageConversion class which
+    provides helper methods to convert images from and to PNG, JPEG or EXR formats.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.imgui@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.imgui@1.0.0
+  assetPath: Packages/com.unity.modules.imgui
+  name: com.unity.modules.imgui
+  displayName: IMGUI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The IMGUI module provides Unity''s immediate mode GUI solution for
+    creating in-game and editor user interfaces. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.IMGUIModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.jsonserialize@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
+  assetPath: Packages/com.unity.modules.jsonserialize
+  name: com.unity.modules.jsonserialize
+  displayName: JSONSerialize
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The JSONSerialize module provides the JsonUtility class which lets
+    you serialize Unity Objects to JSON format. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.JSONSerializeModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.particlesystem@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
+  assetPath: Packages/com.unity.modules.particlesystem
+  name: com.unity.modules.particlesystem
+  displayName: Particle System
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The ParticleSystem module implements Unity''s Particle System. Scripting
+    API: https://docs.unity3d.com/ScriptReference/UnityEngine.ParticleSystemModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.physics@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.physics@1.0.0
+  assetPath: Packages/com.unity.modules.physics
+  name: com.unity.modules.physics
+  displayName: Physics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Physics module implements 3D physics in Unity. Scripting API:
+    https://docs.unity3d.com/ScriptReference/UnityEngine.PhysicsModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.physics2d@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.physics2d@1.0.0
+  assetPath: Packages/com.unity.modules.physics2d
+  name: com.unity.modules.physics2d
+  displayName: Physics 2D
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Physics2d module implements 2D physics in Unity. Scripting API:
+    https://docs.unity3d.com/ScriptReference/UnityEngine.Physics2DModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.screencapture@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.screencapture@1.0.0
+  assetPath: Packages/com.unity.modules.screencapture
+  name: com.unity.modules.screencapture
+  displayName: Screen Capture
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The ScreenCapture module provides functionality to take screen shots
+    using the ScreenCapture class. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ScreenCaptureModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.terrain@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.terrain@1.0.0
+  assetPath: Packages/com.unity.modules.terrain
+  name: com.unity.modules.terrain
+  displayName: Terrain
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Terrain module implements Unity''s Terrain rendering engine available
+    through the Terrain component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.terrainphysics@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
+  assetPath: Packages/com.unity.modules.terrainphysics
+  name: com.unity.modules.terrainphysics
+  displayName: Terrain Physics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The TerrainPhysics module connects the Terrain and Physics modules
+    by implementing the TerrainCollider component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainPhysicsModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.tilemap@1.0.0
+  assetPath: Packages/com.unity.modules.tilemap
+  name: com.unity.modules.tilemap
+  displayName: Tilemap
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Tilemap module implements the Tilemap class. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TilemapModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics2d
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.ui@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.ui@1.0.0
+  assetPath: Packages/com.unity.modules.ui
+  name: com.unity.modules.ui
+  displayName: UI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UI module implements basic components required for Unity''s UI
+    system Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UIModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.uielements@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.uielements@1.0.0
+  assetPath: Packages/com.unity.modules.uielements
+  name: com.unity.modules.uielements
+  displayName: UIElements
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UIElements module implements the UIElements retained mode UI
+    framework. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UIElementsModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.umbra@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.umbra@1.0.0
+  assetPath: Packages/com.unity.modules.umbra
+  name: com.unity.modules.umbra
+  displayName: Umbra
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Umbra module implements Unity''s occlusion culling system. Scripting
+    API: https://docs.unity3d.com/ScriptReference/UnityEngine.UmbraModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unityanalytics@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
+  assetPath: Packages/com.unity.modules.unityanalytics
+  name: com.unity.modules.unityanalytics
+  displayName: Unity Analytics
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityAnalytics module implements APIs required to use Unity Analytics.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityAnalyticsModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unitywebrequest@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
+  assetPath: Packages/com.unity.modules.unitywebrequest
+  name: com.unity.modules.unitywebrequest
+  displayName: Unity Web Request
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityWebRequest module lets you communicate with http services.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unitywebrequestassetbundle@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
+  assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
+  name: com.unity.modules.unitywebrequestassetbundle
+  displayName: Unity Web Request Asset Bundle
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityWebRequestAssetBundle module provides the DownloadHandlerAssetBundle
+    class to use UnityWebRequest to download Asset Bundles. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestAssetBundleModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unitywebrequestaudio@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
+  assetPath: Packages/com.unity.modules.unitywebrequestaudio
+  name: com.unity.modules.unitywebrequestaudio
+  displayName: Unity Web Request Audio
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityWebRequestAudio module provides the DownloadHandlerAudioClip
+    class to use UnityWebRequest to download AudioClips. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestAudioModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unitywebrequesttexture@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
+  assetPath: Packages/com.unity.modules.unitywebrequesttexture
+  name: com.unity.modules.unitywebrequesttexture
+  displayName: Unity Web Request Texture
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityWebRequestTexture module provides the DownloadHandlerTexture
+    class to use UnityWebRequest to download Textures. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestTextureModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.unitywebrequestwww@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
+  assetPath: Packages/com.unity.modules.unitywebrequestwww
+  name: com.unity.modules.unitywebrequestwww
+  displayName: Unity Web Request WWW
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The UnityWebRequestWWW module implements the legacy WWW lets you
+    communicate with http services. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestWWWModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestaudio
+    version: 1.0.0
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.vehicles@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.vehicles@1.0.0
+  assetPath: Packages/com.unity.modules.vehicles
+  name: com.unity.modules.vehicles
+  displayName: Vehicles
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Vehicles module implements vehicle physics simulation through
+    the WheelCollider component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VehiclesModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.video@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.video@1.0.0
+  assetPath: Packages/com.unity.modules.video
+  name: com.unity.modules.video
+  displayName: Video
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Video module lets you play back video files in your content.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VideoModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.audio
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.vr@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.vr@1.0.0
+  assetPath: Packages/com.unity.modules.vr
+  name: com.unity.modules.vr
+  displayName: VR
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The VR module implements support for virtual reality devices in Unity.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VRModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.xr
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.wind@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.wind@1.0.0
+  assetPath: Packages/com.unity.modules.wind
+  name: com.unity.modules.wind
+  displayName: Wind
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Wind module implements the WindZone component which can affect
+    terrain rendering and particle simulations. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.WindModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.xr@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.xr@1.0.0
+  assetPath: Packages/com.unity.modules.xr
+  name: com.unity.modules.xr
+  displayName: XR
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The XR module contains the VR and AR related platform support functionality.
+    Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.XRModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.subsystems
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.modules.subsystems@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.modules.subsystems@1.0.0
+  assetPath: Packages/com.unity.modules.subsystems
+  name: com.unity.modules.subsystems
+  displayName: Subsystems
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: module
+  description: 'The Subsystem module contains the definitions and runtime support
+    for general subsystems in Unity. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.SubsystemsModule.html'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.render-pipelines.core@14.0.10
+  testable: 0
+  isDirectDependency: 0
+  version: 14.0.10
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.render-pipelines.core@14.0.10
+  assetPath: Packages/com.unity.render-pipelines.core
+  name: com.unity.render-pipelines.core
+  displayName: Core RP Library
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: SRP Core makes it easier to create or customize a Scriptable Render
+    Pipeline (SRP). SRP Core contains reusable code, including boilerplate code for
+    working with platform-specific graphics APIs, utility functions for common rendering
+    operations, and  shader libraries. The code in SRP Core is use by the High Definition
+    Render Pipeline (HDRP) and Universal Render Pipeline (URP). If you are creating
+    a custom SRP from scratch or customizing a prebuilt SRP, using SRP Core will
+    save you time.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.21
+    - 0.1.27
+    - 0.1.28
+    - 1.0.0-beta
+    - 1.0.1-beta
+    - 1.1.1-preview
+    - 1.1.2-preview
+    - 1.1.4-preview
+    - 1.1.5-preview
+    - 1.1.8-preview
+    - 1.1.10-preview
+    - 1.1.11-preview
+    - 2.0.1-preview
+    - 2.0.3-preview
+    - 2.0.4-preview
+    - 2.0.4-preview.1
+    - 2.0.5-preview
+    - 2.0.6-preview
+    - 2.0.7-preview
+    - 2.0.8-preview
+    - 3.0.0-preview
+    - 3.1.0-preview
+    - 3.3.0-preview
+    - 4.0.0-preview
+    - 4.0.1-preview
+    - 4.1.0-preview
+    - 4.2.0-preview
+    - 4.3.0-preview
+    - 4.6.0-preview
+    - 4.8.0-preview
+    - 4.9.0-preview
+    - 4.10.0-preview
+    - 5.0.0-preview
+    - 5.1.0
+    - 5.2.0
+    - 5.2.1
+    - 5.2.2
+    - 5.2.3
+    - 5.3.1
+    - 5.6.1
+    - 5.7.2
+    - 5.8.2
+    - 5.9.0
+    - 5.10.0
+    - 5.13.0
+    - 5.16.1
+    - 6.5.2
+    - 6.5.3
+    - 6.7.1
+    - 6.9.0
+    - 6.9.1
+    - 6.9.2
+    - 7.0.0
+    - 7.0.1
+    - 7.1.1
+    - 7.1.2
+    - 7.1.5
+    - 7.1.6
+    - 7.1.7
+    - 7.1.8
+    - 7.2.0
+    - 7.2.1
+    - 7.3.1
+    - 7.4.1
+    - 7.4.2
+    - 7.4.3
+    - 7.5.1
+    - 7.5.2
+    - 7.5.3
+    - 7.6.0
+    - 7.7.0
+    - 7.7.1
+    - 8.0.1
+    - 8.1.0
+    - 8.2.0
+    - 8.3.1
+    - 9.0.0-preview.13
+    - 9.0.0-preview.35
+    - 9.0.0-preview.38
+    - 9.0.0-preview.60
+    - 9.0.0-preview.77
+    - 10.0.0-preview.30
+    - 10.1.0
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.3.1
+    - 10.3.2
+    - 10.4.0
+    - 10.5.0
+    - 10.5.1
+    - 10.6.0
+    - 10.7.0
+    - 10.8.0
+    - 10.8.1
+    - 10.9.0
+    - 10.10.0
+    - 10.10.1
+    - 14.0.10
+    compatible:
+    - 14.0.10
+    recommended: 14.0.10
+    deprecated: []
+  dependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 14.0.10
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.searcher@4.9.2
+  testable: 0
+  isDirectDependency: 0
+  version: 4.9.2
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.searcher@4.9.2
+  assetPath: Packages/com.unity.searcher
+  name: com.unity.searcher
+  displayName: Searcher
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: General search window for use in the Editor. First target use is for
+    GraphView node search.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 4.0.0-preview
+    - 4.0.0
+    - 4.0.7-preview
+    - 4.0.7
+    - 4.0.8-preview
+    - 4.0.9
+    - 4.1.0-preview
+    - 4.1.0
+    - 4.2.0
+    - 4.3.0
+    - 4.3.1
+    - 4.3.2
+    - 4.6.0-preview
+    - 4.7.0-preview
+    - 4.9.1
+    - 4.9.2
+    compatible:
+    - 4.9.2
+    recommended: 4.9.2
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - search
+  - searcher
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637831252240000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
+    revision: 7f9f75b04e97cf09c8ddc3968d059e74d6a2460a
+    path: 
+  unityLifecycle:
+    version: 4.9.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.core@1.12.4
+  testable: 0
+  isDirectDependency: 0
+  version: 1.12.4
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.core@1.12.4
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: 'This package defines common components used by multiple Game Service
+    packages.
+
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
+    - 1.7.1
+    - 1.8.1
+    - 1.8.2
+    - 1.9.0
+    - 1.10.1
+    - 1.11.0
+    - 1.12.0
+    - 1.12.1
+    - 1.12.2
+    - 1.12.4
+    compatible:
+    - 1.12.4
+    recommended: 1.12.4
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638453964220000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.services.core@1.12/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: eb2251fee83c079acd305e4d0f6fd279ca5e118a
+    path: 
+  unityLifecycle:
+    version: 1.12.4
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.authentication@3.1.0
+  testable: 0
+  isDirectDependency: 0
+  version: 3.1.0
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.authentication@3.1.0
+  assetPath: Packages/com.unity.services.authentication
+  name: com.unity.services.authentication
+  displayName: Authentication
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Client SDK offering player identity management for Unity Gaming Services.
+
+
+    Identity
+    providers can be configured from the editor or the Unity Dashboard.
+
+
+    Player
+    management is available in the Unity Dashboard.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-pre.4
+    - 1.0.0-pre.6
+    - 1.0.0-pre.37
+    - 2.0.0
+    - 2.1.1
+    - 2.2.0
+    - 2.3.1
+    - 2.4.0
+    - 2.5.0-pre.3
+    - 2.5.0
+    - 2.6.1
+    - 2.7.1
+    - 2.7.2
+    - 3.0.0
+    - 3.1.0
+    - 3.2.0
+    - 3.3.0
+    compatible:
+    - 2.7.2
+    - 3.0.0
+    - 3.1.0
+    - 3.2.0
+    - 3.3.0
+    recommended: 2.7.2
+    deprecated: []
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.core
+    version: 1.12.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638338409210000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: dc900f2f42085635c80197345bb69d5aaca659d7
+    path: 
+  unityLifecycle:
+    version: 2.7.2
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.nuget.newtonsoft-json@3.2.1
+  testable: 0
+  isDirectDependency: 0
+  version: 3.2.1
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.2.1
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.2.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    - 3.1.0
+    - 3.2.0
+    - 3.2.1
+    compatible:
+    - 3.2.1
+    recommended: 3.2.1
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638186318800000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: d8e49aef8979bef617144382052ec2f479645eaf
+    path: 
+  unityLifecycle:
+    version: 3.2.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.services.wire@1.2.3
+  testable: 0
+  isDirectDependency: 0
+  version: 1.2.3
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.services.wire@1.2.3
+  assetPath: Packages/com.unity.services.wire
+  name: com.unity.services.wire
+  displayName: Wire
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: Wire provides notifications in real-time for Unity Gaming Services
+    subscribing to a particular service and listening for messages from that subscription
+    through a websocket connection.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.20
+    - 1.0.0
+    - 1.1.0
+    - 1.1.1
+    - 1.1.4
+    - 1.1.5
+    - 1.1.6
+    - 1.1.8
+    - 1.2.0
+    - 1.2.2
+    - 1.2.3
+    compatible:
+    - 1.2.3
+    recommended: 1.2.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.services.authentication
+    version: 2.7.2
+  resolvedDependencies:
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638465520010000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: c95a6f4077dc0f3c3083e32645ecbb0a92e7a135
+    path: 
+  unityLifecycle:
+    version: 1.2.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.remote-config-runtime@4.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 4.0.1
+  source: 1
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.remote-config-runtime@4.0.1
+  assetPath: Packages/com.unity.remote-config-runtime
+  name: com.unity.remote-config-runtime
+  displayName: Remote Config Runtime
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: assets
+  description: Remote Config is a cloud service that lets you tune and customize
+    your app over the air without requiring an update to your game.  This package
+    is intended to be inherited as a dependency, and should not be directly installed,
+    by end users. Unity Developers that want to implement Unity Remote Config in
+    their game/application, should use the Remote Config Package `com.unity.remote-config`
+    rather than this package directly.
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0-exp.2
+    - 1.0.0-exp.3
+    - 1.0.0
+    - 1.0.1-exp.2
+    - 1.0.1
+    - 1.0.2-exp.1
+    - 2.0.0
+    - 2.0.1-exp.1
+    - 2.1.1
+    - 2.1.2
+    - 2.1.3-exp.1
+    - 2.1.3-exp.2
+    - 2.1.3-exp.3
+    - 2.1.3-exp.4
+    - 2.1.3-exp.5
+    - 2.1.3-exp.6
+    - 2.1.3-exp.7
+    - 2.1.3-exp.8
+    - 2.1.3-exp.9
+    - 2.1.3-exp.10
+    - 3.0.0-pre.7
+    - 3.0.0-pre.8
+    - 3.0.0-pre.10
+    - 3.0.0-pre.11
+    - 3.0.0-pre.12
+    - 3.0.0-pre.13
+    - 3.0.0-pre.15
+    - 3.0.0-pre.16
+    - 3.0.0-pre.17
+    - 3.0.0-pre.18
+    - 3.0.0-pre.19
+    - 3.0.0-pre.21
+    - 3.0.0-pre.22
+    - 3.0.0-pre.23
+    - 3.0.0-pre.24
+    - 3.0.0-pre.25
+    - 3.0.0-pre.26
+    - 3.0.0-pre.27
+    - 3.0.0-pre.28
+    - 3.0.0-pre.29
+    - 3.0.0-pre.30
+    - 3.0.0
+    - 3.1.0
+    - 3.1.3
+    - 4.0.1
+    compatible:
+    - 3.1.3
+    - 4.0.1
+    recommended: 3.1.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.8.1
+  - name: com.unity.services.authentication
+    version: 2.2.0
+  resolvedDependencies:
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.2.1
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unityanalytics
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.services.core
+    version: 1.12.4
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  - name: com.unity.services.authentication
+    version: 3.1.0
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - remote
+  - config
+  - configuration
+  - settings
+  - remote settings
+  - remote config
+  - firebase
+  - staged rollouts
+  - feature flagging
+  - roll-out
+  - adapt
+  - tune
+  - tailor
+  - test
+  - experiment
+  - experimentation
+  - app update
+  - target
+  - targeting
+  - segment
+  - segmentation
+  - segmenting
+  - override
+  - rules
+  - variants
+  - variation
+  - parameter
+  - conditions
+  - conditional
+  - continuous delivery
+  - deploy
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 638234724000000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.remote-config-runtime@4.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: ec5d70692c285d10b3cd798493012eb29560e113
+    path: 
+  unityLifecycle:
+    version: 3.1.3
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: com.unity.ugui@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: C:\Users\saart\Desktop\Unity\Q1\Library\PackageCache\com.unity.ugui@1.0.0
+  assetPath: Packages/com.unity.ugui
+  name: com.unity.ugui
+  displayName: Unity UI
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: "Unity UI is a set of tools for developing user interfaces for games
+    and applications. It is a GameObject-based UI system that uses Components and
+    the Game View to arrange, position, and style user interfaces. \u200B You cannot
+    use Unity UI to create or change user interfaces in the Unity Editor."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 3.0.0-exp.1
+    - 3.0.0-exp.3
+    compatible:
+    - 1.0.0
+    recommended: 1.0.0
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  keywords:
+  - UI
+  - ugui
+  - Unity UI
+  - Canvas
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
