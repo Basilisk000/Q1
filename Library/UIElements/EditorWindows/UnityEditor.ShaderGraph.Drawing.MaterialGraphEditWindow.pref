@@ -17,8 +17,24 @@ MonoBehaviour:
   - __PanelContainer__rootVisualContainer__8ea82eecb48196941a844104806c7d18__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   - __PanelContainer__rootVisualContainer__4da5155edfd94da49a26f43c4efa29f2__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
   - __PanelContainer__rootVisualContainer__4da5155edfd94da49a26f43c4efa29f2__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__13e7b4ef2e15fde4e99bb1c124b4a0fc__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__13e7b4ef2e15fde4e99bb1c124b4a0fc__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__8ca5fbc6cac3fd648aeec6c8760bdd6a__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__8ca5fbc6cac3fd648aeec6c8760bdd6a__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__68780ab790d42ce47b0b2ff5a66264ad__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__68780ab790d42ce47b0b2ff5a66264ad__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
+  - __PanelContainer__rootVisualContainer__fa8be3d9a52c10944b77909b2810fc94__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedViewTransform
+  - __PanelContainer__rootVisualContainer__fa8be3d9a52c10944b77909b2810fc94__MaterialGraphView__UnityEditor.Experimental.GraphView.GraphView+PersistedSelection
   m_Values:
   - '{}'
   - '{}'
-  - '{"position":{"x":602.0,"y":-100.0,"z":0.0},"scale":{"x":1.149999976158142,"y":1.149999976158142,"z":1.0}}'
-  - '{"m_Version":50,"m_SelectedElementsArray":["c97f20b5-aac5-461f-aa1d-713d331890db","b1abda9a-2d73-43d3-8015-7f0ed865fc19"]}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{}'
+  - '{"position":{"x":910.4000244140625,"y":-168.8000030517578,"z":0.0},"scale":{"x":0.8695651888847351,"y":0.8695651888847351,"z":1.0}}'
+  - '{"m_Version":6,"m_SelectedElementsArray":[]}'
