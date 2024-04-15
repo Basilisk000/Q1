@@ -40,7 +40,8 @@ Material:
     m_Floats:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
+    - _Fresnel: 1
     - _Transparency: 0.8
     m_Colors:
-    - _Colour: {r: 0, g: 0.58945537, b: 1, a: 0}
+    - _Colour: {r: 0, g: 1, b: 0.7148926, a: 0}
   m_BuildTextureStacks: []
